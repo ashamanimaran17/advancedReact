@@ -29,11 +29,13 @@
     "eslint-plugin-react": "^7.31.8"
   },
   "dependencies": {
+    "@babel/cli": "^7.18.10",
     "@babel/core": "^7.19.1",
+    "@babel/node": "^7.19.1",
     "@babel/preset-env": "^7.19.1",
     "@babel/preset-react": "^7.18.6",
-    "babel-cli": "^6.26.0",
     "babel-loader": "^8.2.5",
+    "babel-node": "^0.0.1-security",
     "ejs": "^3.1.8",
     "express": "^4.18.1",
     "pm2": "^5.2.0",
